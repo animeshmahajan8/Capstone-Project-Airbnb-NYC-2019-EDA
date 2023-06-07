@@ -2,7 +2,7 @@
 
 
 Click on the following link to checkout the video presentation.
-- [Colab](https://youtu.be/FSrWZdEmN-c)
+- [Video Presentation of Colab File](https://youtu.be/FSrWZdEmN-c)
 
 
 ## Problem Statement
