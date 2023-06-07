@@ -1,4 +1,4 @@
-# Telecom Churn EDA
+# Airbnb NYC EDA
 
 
 Click on the following link to checkout the video presentation.
